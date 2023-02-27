@@ -1,0 +1,3 @@
+displayName = UltimateBossMod
+author = Plananas
+version = 0.2

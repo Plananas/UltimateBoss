@@ -1,0 +1,2 @@
+Adds a much needed boss to Terraria.
+New NPC should be able to move in from the start to start the mod.
